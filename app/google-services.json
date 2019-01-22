@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "329725459226",
+    "firebase_url": "https://geofire-60301.firebaseio.com",
+    "project_id": "geofire-60301",
+    "storage_bucket": "geofire-60301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329725459226:android:1af188e6265a8d43",
+        "android_client_info": {
+          "package_name": "com.example.ft2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329725459226-m5cq206h62dh1s2c60hph9b5jq0daljh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ft2",
+            "certificate_hash": "8e70b16b77b935da5e8a15aa7afd1221812fa51f"
+          }
+        },
+        {
+          "client_id": "329725459226-8rcm12f2tus95hsp2pc7emcbvillofpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVyah2qyFKLfWNZWkJu86p-D1fsfrOh5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329725459226-8rcm12f2tus95hsp2pc7emcbvillofpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
